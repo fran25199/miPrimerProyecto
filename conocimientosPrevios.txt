@@ -1,2 +1,6 @@
 1r conocimientos
 Programación de Automatas (Lenguaje de contactos KOP)
+
+2nd conocimiento
+
+Programación C++
